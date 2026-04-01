@@ -1,2 +1,4 @@
 # roblox-bat-gen
-lightweight python script for generating x-bound-auth-token for roblox
+## dynamically generate x-bound-auth-token for roblox request
+
+url + type of request matters. thats really all
